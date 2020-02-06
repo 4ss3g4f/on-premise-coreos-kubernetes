@@ -1,4 +1,4 @@
-# on-premise-coreos-kubernetes
+# on-premise-coreos-kubernetes analytic with webspoon, clickhouse and apache superset
 vmware vsphere implementation coreos kubernetes, 
 
 steps to install:
@@ -12,3 +12,5 @@ explanation:
 2. coreos install.sh config file: https://raw.githubusercontent.com/coreos/init/master/bin/coreos-install
 3. vmware workstation: need to modify gateway and dns
 4. ovftool to convert sha256: free download
+
+we used on-premise coreos kubernetes for analytic webspoon, clickhouse and apache superset
